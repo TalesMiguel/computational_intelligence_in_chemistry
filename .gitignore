@@ -1,3 +1,5 @@
-*.xyz
-*.tar.bz2
+# Ignore the entire db folder and all its contents
+db/
+
+# Python cache
 __pycache__/
