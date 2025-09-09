@@ -1,0 +1,11 @@
+gdb_id,n_atoms,homo_lumo_gap,smiles,canonical_smiles
+1,5,0.5048,C,C
+2,4,0.3399,N,N
+3,3,0.3615,O,O
+4,4,0.3351,C#C,C#C
+5,3,0.3796,C#N,C#N
+6,4,0.2263,C=O,C=O
+7,8,0.4426,CC,CC
+8,6,0.3437,CO,CO
+9,7,0.3222,CC#C,C#CC
+10,6,0.364,CC#N,CC#N
