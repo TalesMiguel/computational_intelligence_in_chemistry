@@ -5,7 +5,7 @@
 ### QM9 Database
 - about 134k molecules
 
-## Hands-on: molecular data reading
+## Instructions
 
 • Using a Colab notebook, create functions for:
 1. Load and unpack the QM9 dataset
